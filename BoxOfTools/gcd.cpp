@@ -29,7 +29,3 @@ int main(){
 
     return 0;
 }
-
-
-//suma de rows de una matriz
-//suma de columns de una matriz
