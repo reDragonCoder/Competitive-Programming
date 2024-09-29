@@ -1,3 +1,4 @@
+//Author: reDragonCoder
 //Absolute Value Function Example
 
 #include <iostream>
