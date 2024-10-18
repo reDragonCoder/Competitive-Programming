@@ -19,5 +19,5 @@ Feel free to explore my solutions! If you have any tips, questions, or suggestio
 
 You can find me on:
 - [E-Mail] redragoncoder.contact@proton.me
-- 
+  
 Thanks for stopping by! Happy coding and good luck in your contests! 💻✨
