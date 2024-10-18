@@ -4,7 +4,6 @@ Welcome to my Codeforces Solutions Repository! This collection features my perso
 
 ------------------------------------------------
 📁 CONTENTS
-Solutions 📝
 - Code solutions for various Codeforces problems.
 - Cheatsheets 📊
 - Tools ⚙️
