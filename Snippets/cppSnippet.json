@@ -1,0 +1,24 @@
+{
+    "C++ ComProg Main": {
+        "prefix": "cp",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "using ull=unsigned long long;",
+            "using ll=long long;",
+            "using namespace std;",
+            "int main(){",
+            "    int tc=0;",
+            "    //cin>>tc;",
+            "    int n;",
+            "    while(tc--){",
+            "        cin>>n;",
+            "        for(int i=0; i<n; i++){",
+            "            $1", // Placeholder for loop content
+            "        }",
+            "    }",
+            "    return 0;",
+            "}"
+        ],
+        "description": "C++ Structure"
+    }
+}
