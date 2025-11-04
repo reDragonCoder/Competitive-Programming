@@ -10,10 +10,7 @@ The main purpose of this repository is to organize and store solutions to variou
 
 ## ✨ Features
 
-- 📝 Solutions to a wide range of competitive programming problems.
-- 🧩 C++ templates for common data structures and algorithms.
-- 💡 Code samples that demonstrate standard techniques used in competitive programming.
-- 🗂️ Well-organized folders and files for easy navigation.
+
 
 ## 💻 Programming Languages
 
